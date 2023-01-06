@@ -1,0 +1,3 @@
+[submodule "A"]
+	path = A
+	url = git@github.com:it-mengge/A.git
