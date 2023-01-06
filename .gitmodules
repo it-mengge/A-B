@@ -1,9 +1,6 @@
 [submodule "A"]
 	path = A
 	url = git@github.com:it-mengge/A.git
-[submodule "C"]
-	path = C
-	url = git@github.com:zeromicro/go-zero.git
 [submodule "D/A"]
 	path = D/A
 	url = git@github.com:zeromicro/go-zero.git
