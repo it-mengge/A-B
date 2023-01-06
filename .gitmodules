@@ -4,3 +4,6 @@
 [submodule "D/A"]
 	path = D/A
 	url = git@github.com:zeromicro/go-zero.git
+[submodule "E"]
+	path = E
+	url = git@github.com:it-mengge/A.git
